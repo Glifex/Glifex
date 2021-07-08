@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Glifex
+- 👋 Hi, I’m @Iury Candeia
 - 👀 I’m interested in applications and softwares
 - 🌱 I’m currently learning Python language and java OO
 - 💞️ I’m looking to collaborate on project to learn more and be part of something
